@@ -20,6 +20,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 713 | Subarray Product Less Than K | [View Solution](713_Subarray_Product_Less_Than_K.java) |
 | 974 | Subarray Sums Divisible by K | [View Solution](974_Subarray_Sums_Divisible_By_K.java) |
 | 283 | Move Zeroes | [View Solution](283_Move_Zeroes.java) |
+| 75 | Sort Colors | [View Solution](75_Sort_Colors.java) |
 
 
 I regularly update this repository with new solutions and optimized approaches.
