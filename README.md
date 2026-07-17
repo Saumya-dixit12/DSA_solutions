@@ -15,7 +15,8 @@ A collection of my **LeetCode** and **Data Structures & Algorithms (DSA)** solut
 | 75   | Sort Colors                  | 🟡 Medium   | [View Solution](75_Sort_Colors.java)                   | [LeetCode](https://leetcode.com/problems/sort-colors/)                  |
 | 202  | Happy Number                 | 🟢 Easy     | [View Solution](202_Happy_Number.java)                 | [LeetCode](https://leetcode.com/problems/happy-number/)                 |
 | 258  | Add Digits                   | 🟢 Easy     | [View Solution](258_Add_Digits.java)                   | [LeetCode](https://leetcode.com/problems/add-digits/)                   |
-| --   | Count Words in a String      | 🔵 Practice | [View Solution](count_words_in_a.java)                 | Java Practice                                                           |
+| -- | Count Words in a String | 🔵 Practice | [View Solution](count_words_in_a.java) | [GFG](https://www.geeksforgeeks.org/problems/count-number-of-words1500/1) |
+| -- | Palindrome String | 🔵 Practice | [View Solution](Palindrome_String.java) | [GFG](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) |
 
 ---
 
