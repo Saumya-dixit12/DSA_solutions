@@ -23,6 +23,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 75 | Sort Colors | [View Solution](75_Sort_Colors.java) |
 | 202 | Happy Number | [View Solution](202_Happy_Number.java) |
 | 258 | Add Digits | [View Solution](258_Add_Digits.java) |
+| gfg | Count Words in a String | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/count_words_in_a.java) |
 
 
 
