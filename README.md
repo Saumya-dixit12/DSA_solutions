@@ -20,6 +20,7 @@ A collection of my **LeetCode** and **Data Structures & Algorithms (DSA)** solut
 | 151 | Reverse Words in a String | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/Reverse_words_in_a_string.java) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) |
 | -- | Toggle Case | 🔵 Practice | [View Solution](Toggle_Case.java) | [GFG](https://www.geeksforgeeks.org/problems/toggle-case/1) |
 | -- | Convert Sentence to Camel Case | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/Convert_Sentence_to_Camel_Case.java) | [GFG](https://www.geeksforgeeks.org/problems/convert-sentence-to-camel-case/1) |
+| 1528 | Shuffle String | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/1528_%20Shuffle_String.java) | [LeetCode](https://leetcode.com/problems/shuffle-string/) |
 
 ---
 
