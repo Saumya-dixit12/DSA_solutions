@@ -35,9 +35,10 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | 205 | Isomorphic Strings | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/205_Isomorphic_Strings.java) | [LeetCode](https://leetcode.com/problems/isomorphic-strings/) |
 | 258 | Add Digits | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/258_Add_Digits.java) | [LeetCode](https://leetcode.com/problems/add-digits/) |
 | 283 | Move Zeroes | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/283_Move_Zeroes.java) | [LeetCode](https://leetcode.com/problems/move-zeroes/) |
-| 383 | Ransom Note | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/383_Ransom_Note.java) | [LeetCode](https://leetcode.com/problems/ransom-note/) |
 | 344 | Reverse String | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/344_Reverse_String.java) | [LeetCode](https://leetcode.com/problems/reverse-string/) |
+| 383 | Ransom Note | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/383_Ransom_Note.java) | [LeetCode](https://leetcode.com/problems/ransom-note/) |
 | 387 | First Unique Character in a String | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/387_First_Unique_Character_in_a_String.java) | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) |
+| 392 | Is Subsequence | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/392_Is_Subsequence.java) | [LeetCode](https://leetcode.com/problems/is-subsequence/) |
 | 443 | String Compression | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/443_String_Compression.java) | [LeetCode](https://leetcode.com/problems/string-compression/) |
 | 713 | Subarray Product Less Than K | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/713_Subarray_Product_Less_Than_K.java) | [LeetCode](https://leetcode.com/problems/subarray-product-less-than-k/) |
 | 974 | Subarray Sums Divisible by K | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/974_Subarray_Sums_Divisible_By_K.java) | [LeetCode](https://leetcode.com/problems/subarray-sums-divisible-by-k/) |
