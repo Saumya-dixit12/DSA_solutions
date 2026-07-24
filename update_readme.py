@@ -13,27 +13,24 @@ for line in content.splitlines():
 
     line = line.strip()
 
-    # ----------------------------
-    # Detect Sections
-    # ----------------------------
+    # Detect current section
     if line == "## 🟨 LeetCode":
         section = "leetcode"
         continue
 
-    if line == "## 🟦 GeeksforGeeks (GFG)":
+    elif line == "## 🟦 GeeksforGeeks (GFG)":
         section = "gfg"
         continue
 
-    # Any new heading ends current section
-    if line.startswith("#") and line not in (
-        "## 🟨 LeetCode",
-        "## 🟦 GeeksforGeeks (GFG)",
-    ):
-        section = None
+    # Stop counting when another heading starts
+    elif line.startswith("#"):
+        if line not in (
+            "## 🟨 LeetCode",
+            "## 🟦 GeeksforGeeks (GFG)",
+        ):
+            section = None
 
-    # ----------------------------
-    # Count Table Rows
-    # ----------------------------
+    # Count only table rows
     if re.match(r"^\|\s*\d+\s*\|", line):
         if section == "leetcode":
             leetcode_count += 1
