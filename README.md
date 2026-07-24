@@ -35,10 +35,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | 205 | Isomorphic Strings | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/205_Isomorphic_Strings.java) | [LeetCode](https://leetcode.com/problems/isomorphic-strings/) |
 | 258 | Add Digits | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/258_Add_Digits.java) | [LeetCode](https://leetcode.com/problems/add-digits/) |
 | 283 | Move Zeroes | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/283_Move_Zeroes.java) | [LeetCode](https://leetcode.com/problems/move-zeroes/) |
-```md
 | 383 | Ransom Note | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/383_Ransom_Note.java) | [LeetCode](https://leetcode.com/problems/ransom-note/) |
-```
-
 | 344 | Reverse String | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/344_Reverse_String.java) | [LeetCode](https://leetcode.com/problems/reverse-string/) |
 | 387 | First Unique Character in a String | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/387_First_Unique_Character_in_a_String.java) | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) |
 | 443 | String Compression | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/443_String_Compression.java) | [LeetCode](https://leetcode.com/problems/string-compression/) |
