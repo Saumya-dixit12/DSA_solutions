@@ -4,50 +4,37 @@ from pathlib import Path
 README = Path("README.md")
 content = README.read_text(encoding="utf-8")
 
-# ----------------------------
+# -----------------------------
 # Count LeetCode Problems
-# ----------------------------
+# -----------------------------
+leetcode_match = re.search(
+    r"## 🟨 LeetCode(.*?)---",
+    content,
+    re.S
+)
+
 leetcode_count = 0
-in_leetcode = False
+if leetcode_match:
+    table = leetcode_match.group(1)
+    leetcode_count = len(re.findall(r"^\|\s*\d+\s*\|", table, re.M))
 
-# ----------------------------
+# -----------------------------
 # Count GFG Problems
-# ----------------------------
+# -----------------------------
+gfg_match = re.search(
+    r"## 🟦 GeeksforGeeks \(GFG\)(.*?)(?=\n#|\Z)",
+    content,
+    re.S
+)
+
 gfg_count = 0
-in_gfg = False
-
-for line in content.splitlines():
-
-    # Start LeetCode section
-    if line.strip() == "### 🟨 LeetCode":
-        in_leetcode = True
-        in_gfg = False
-        continue
-
-    # Start GFG section
-    if line.strip() == "### 🟦 GeeksforGeeks (GFG)":
-        in_leetcode = False
-        in_gfg = True
-        continue
-
-    # End GFG when next heading starts
-    if line.startswith("## ") and not line.startswith("### "):
-        in_leetcode = False
-        in_gfg = False
-
-    # Count LeetCode rows
-    if in_leetcode:
-        if re.match(r"^\|\s*\d+\s*\|", line):
-            leetcode_count += 1
-
-    # Count GFG rows
-    if in_gfg:
-        if re.match(r"^\|\s*\d+\s*\|", line):
-            gfg_count += 1
+if gfg_match:
+    table = gfg_match.group(1)
+    gfg_count = len(re.findall(r"^\|\s*\d+\s*\|", table, re.M))
 
 total = leetcode_count + gfg_count
 
-new_progress = f"""## 📈 Progress
+progress = f"""## 📈 Progress
 
 - ✅ Total Problems Solved: **{total}**
 - 🟠 LeetCode: **{leetcode_count}**
@@ -56,7 +43,7 @@ new_progress = f"""## 📈 Progress
 
 content = re.sub(
     r"## 📈 Progress.*?---",
-    new_progress + "\n\n---",
+    progress + "\n\n---",
     content,
     flags=re.S,
 )
