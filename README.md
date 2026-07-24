@@ -1,6 +1,14 @@
 # 🚀 DSA Solutions
 
-A collection of my **LeetCode** and **GeeksforGeeks (GFG)** solutions in **Java**. This repository showcases my coding practice, problem-solving journey, and continuous learning in **Data Structures & Algorithms (DSA)**.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge)
+
+A collection of my **LeetCode** and **GeeksforGeeks (GFG)** solutions in **Java**.
+
+This repository documents my journey of learning **Data Structures & Algorithms (DSA)** through consistent practice. It serves as a personal archive of optimized Java solutions while helping me strengthen problem-solving skills and prepare for coding interviews.
 
 ---
 
@@ -10,12 +18,11 @@ A collection of my **LeetCode** and **GeeksforGeeks (GFG)** solutions in **Java*
 - 🟠 LeetCode: **17**
 - 🟢 GeeksforGeeks: **4**
 
-
 ---
 
-## 📋 Problems Solved
+# 📋 Problems Solved
 
-### 🟨 LeetCode
+## 🟨 LeetCode
 
 | # | Problem | Difficulty | Solution | Platform |
 |---|---------|:----------:|----------|----------|
@@ -39,7 +46,7 @@ A collection of my **LeetCode** and **GeeksforGeeks (GFG)** solutions in **Java*
 
 ---
 
-### 🟦 GeeksforGeeks (GFG)
+## 🟦 GeeksforGeeks (GFG)
 
 | # | Problem | Difficulty | Solution | Platform |
 |---|---------|:----------:|----------|----------|
@@ -50,24 +57,43 @@ A collection of my **LeetCode** and **GeeksforGeeks (GFG)** solutions in **Java*
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Languages & Tools
 
 - ☕ Java
-- 🧠 Data Structures & Algorithms (DSA)
-- 💻 LeetCode
-- 📚 GeeksforGeeks (GFG)
-- 🌿 Git & GitHub
+- 📚 Data Structures & Algorithms (DSA)
+- 💻 Visual Studio Code
+- 🌿 Git
+- 🐙 GitHub
+- 🧩 LeetCode
+- 📘 GeeksforGeeks
 
 ---
 
-## 🎯 Objectives
+# 🎯 Goals
 
-- Solve coding problems consistently.
+- Solve DSA problems consistently.
 - Strengthen Data Structures & Algorithms concepts.
-- Improve logical thinking and problem-solving skills.
+- Improve logical thinking and coding skills.
 - Write clean, efficient, and optimized Java solutions.
-- Track my DSA learning journey through GitHub.
+- Prepare for coding interviews and placements.
+- Track my learning journey through GitHub.
 
 ---
 
-⭐ **If you find this repository helpful, consider giving it a Star! It motivates me to keep solving and sharing more DSA solutions.**
+## 📌 Repository Highlights
+
+- ✅ Java-based DSA solutions
+- ✅ Optimized and readable code
+- ✅ Regularly updated repository
+- ✅ Placement-oriented problem collection
+- ✅ Covers Easy to Medium level interview questions
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, consider giving it a **⭐ Star**.
+
+Your support motivates me to keep learning, solving, and sharing more DSA solutions.
+
+**Happy Coding! 🚀**
