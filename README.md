@@ -39,6 +39,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | 383 | Ransom Note | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/383_Ransom_Note.java) | [LeetCode](https://leetcode.com/problems/ransom-note/) |
 | 387 | First Unique Character in a String | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/387_First_Unique_Character_in_a_String.java) | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) |
 | 392 | Is Subsequence | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/392_Is_Subsequence.java) | [LeetCode](https://leetcode.com/problems/is-subsequence/) |
+| 415 | Add Strings | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/415_Add_Strings.java) | [LeetCode](https://leetcode.com/problems/add-strings/) |
 | 443 | String Compression | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/443_String_Compression.java) | [LeetCode](https://leetcode.com/problems/string-compression/) |
 | 713 | Subarray Product Less Than K | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/713_Subarray_Product_Less_Than_K.java) | [LeetCode](https://leetcode.com/problems/subarray-product-less-than-k/) |
 | 796 | Rotate String | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/796_Rotate_String.java) | [LeetCode](https://leetcode.com/problems/rotate-string/) |
