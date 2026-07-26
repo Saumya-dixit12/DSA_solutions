@@ -41,6 +41,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | 392 | Is Subsequence | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/392_Is_Subsequence.java) | [LeetCode](https://leetcode.com/problems/is-subsequence/) |
 | 415 | Add Strings | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/415_Add_Strings.java) | [LeetCode](https://leetcode.com/problems/add-strings/) |
 | 443 | String Compression | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/443_String_Compression.java) | [LeetCode](https://leetcode.com/problems/string-compression/) |
+| 459 | Repeated Substring Pattern | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/459_Repeated_Substring_Pattern.java) | [LeetCode](https://leetcode.com/problems/repeated-substring-pattern/) |
 | 713 | Subarray Product Less Than K | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/713_Subarray_Product_Less_Than_K.java) | [LeetCode](https://leetcode.com/problems/subarray-product-less-than-k/) |
 | 796 | Rotate String | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/796_Rotate_String.java) | [LeetCode](https://leetcode.com/problems/rotate-string/) |
 | 974 | Subarray Sums Divisible by K | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/974_Subarray_Sums_Divisible_By_K.java) | [LeetCode](https://leetcode.com/problems/subarray-sums-divisible-by-k/) |
