@@ -62,6 +62,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | 2 | Palindrome String | 🔵 Basic | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/Palindrome_String.java) | [GFG](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) |
 | 3 | Toggle Case | 🔵 Basic | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/Toggle_Case.java) | [GFG](https://www.geeksforgeeks.org/problems/toggle-case/1) |
 | 4 | Convert Sentence to Camel Case | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/Convert_Sentence_to_Camel_Case.java) | [GFG](https://www.geeksforgeeks.org/problems/convert-sentence-to-camel-case/1) |
+| 5 | Count Nodes of Linked List | 🔵 Basic | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/Length_of_Linked_List.java) | [GFG](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) |
 
 ---
 
