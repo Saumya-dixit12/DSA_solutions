@@ -33,6 +33,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | 179 | Largest Number | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/179_Largest_Number.java) | [LeetCode](https://leetcode.com/problems/largest-number/) |
 | 202 | Happy Number | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/202_Happy_Number.java) | [LeetCode](https://leetcode.com/problems/happy-number/) |
 | 205 | Isomorphic Strings | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/205_Isomorphic_Strings.java) | [LeetCode](https://leetcode.com/problems/isomorphic-strings/) |
+| 237 | Delete Node in a Linked List | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/237_Delete_Node_in_a_Linked_List.java) | [LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list/) |
 | 258 | Add Digits | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/258_Add_Digits.java) | [LeetCode](https://leetcode.com/problems/add-digits/) |
 | 283 | Move Zeroes | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/283_Move_Zeroes.java) | [LeetCode](https://leetcode.com/problems/move-zeroes/) |
 | 344 | Reverse String | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/344_Reverse_String.java) | [LeetCode](https://leetcode.com/problems/reverse-string/) |
