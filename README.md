@@ -33,6 +33,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | 179 | Largest Number | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/179_Largest_Number.java) | [LeetCode](https://leetcode.com/problems/largest-number/) |
 | 202 | Happy Number | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/202_Happy_Number.java) | [LeetCode](https://leetcode.com/problems/happy-number/) |
 | 205 | Isomorphic Strings | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/205_Isomorphic_Strings.java) | [LeetCode](https://leetcode.com/problems/isomorphic-strings/) |
+| 231 | Power of Two | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/231_Power_of_Two.java) | [LeetCode](https://leetcode.com/problems/power-of-two/) |
 | 237 | Delete Node in a Linked List | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/237_Delete_Node_in_a_Linked_List.java) | [LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list/) |
 | 258 | Add Digits | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/258_Add_Digits.java) | [LeetCode](https://leetcode.com/problems/add-digits/) |
 | 268 | Missing Number | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/268_Missing_Number.java) | [LeetCode](https://leetcode.com/problems/missing-number/) |
