@@ -40,6 +40,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | 283 | Move Zeroes | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/283_Move_Zeroes.java) | [LeetCode](https://leetcode.com/problems/move-zeroes/) |
 | 290 | Word Pattern | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/290_Word_Pattern.java) | [LeetCode](https://leetcode.com/problems/word-pattern/) |
 | 344 | Reverse String | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/344_Reverse_String.java) | [LeetCode](https://leetcode.com/problems/reverse-string/) |
+| 345 | Reverse Vowels of a String | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/345_Reverse_Vowels_of_a_String.java) | [LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string/) |
 | 349 | Intersection of Two Arrays | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/349_Intersection_of_Two_Arrays.java) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) |
 | 350 | Intersection of Two Arrays II | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/350_Intersection_of_Two_Arrays_II.java) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |
 | 383 | Ransom Note | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/383_Ransom_Note.java) | [LeetCode](https://leetcode.com/problems/ransom-note/) |
