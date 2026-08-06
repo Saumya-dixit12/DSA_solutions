@@ -29,6 +29,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 |---|---------|:----------:|----------|----------|
 | 67 | Add Binary | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/67_Add_Binary.java) | [LeetCode](https://leetcode.com/problems/add-binary/) |
 | 75 | Sort Colors | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/75_Sort_Colors.java) | [LeetCode](https://leetcode.com/problems/sort-colors/) |
+| 121 | Best Time to Buy and Sell Stock | 🟢 Easy | [Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/121_Best_Time_to_Buy_and_Sell_Stock.java) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 151 | Reverse Words in a String | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/Reverse_words_in_a_string.java) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) |
 | 179 | Largest Number | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/179_Largest_Number.java) | [LeetCode](https://leetcode.com/problems/largest-number/) |
 | 202 | Happy Number | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/202_Happy_Number.java) | [LeetCode](https://leetcode.com/problems/happy-number/) |
