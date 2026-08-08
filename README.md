@@ -38,6 +38,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | 237 | Delete Node in a Linked List | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/237_Delete_Node_in_a_Linked_List.java) | [LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list/) |
 | 258 | Add Digits | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/258_Add_Digits.java) | [LeetCode](https://leetcode.com/problems/add-digits/) |
 | 268 | Missing Number | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/268_Missing_Number.java) | [LeetCode](https://leetcode.com/problems/missing-number/) |
+| 279 | Perfect Squares |  🟡 Medium | [GitHub](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/279_Perfect_Squares.java) | [LeetCode](https://leetcode.com/problems/perfect-squares/submissions/2099367801/) |
 | 283 | Move Zeroes | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/283_Move_Zeroes.java) | [LeetCode](https://leetcode.com/problems/move-zeroes/) |
 | 290 | Word Pattern | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/290_Word_Pattern.java) | [LeetCode](https://leetcode.com/problems/word-pattern/) |
 | 342 | Power of Four | 🟢 Easy | [Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/342_Power_of_Four.java) | [LeetCode](https://leetcode.com/problems/power-of-four/) |
