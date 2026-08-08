@@ -14,8 +14,8 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 
 ## 📈 Progress
 
-- ✅ Total Problems Solved: **39**
-- 🟠 LeetCode: **34**
+- ✅ Total Problems Solved: **40**
+- 🟠 LeetCode: **35**
 - 🟢 GeeksforGeeks: **5**
 
 
