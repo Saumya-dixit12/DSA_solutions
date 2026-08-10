@@ -27,6 +27,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 
 | # | Problem | Difficulty | Solution | Platform |
 |---|---------|:----------:|----------|----------|
+| 34 | Find First and Last Position of Element in Sorted Array | 🟡 Medium | [Java Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java) | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 | 35 | Search Insert Position | 🟢 Easy | [Java Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/35_Search_Insert_Position.java) | [LeetCode](https://leetcode.com/problems/search-insert-position/) |
 | 67 | Add Binary | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/67_Add_Binary.java) | [LeetCode](https://leetcode.com/problems/add-binary/) |
 | 75 | Sort Colors | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/75_Sort_Colors.java) | [LeetCode](https://leetcode.com/problems/sort-colors/) |
