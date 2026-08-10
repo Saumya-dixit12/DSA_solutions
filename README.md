@@ -27,6 +27,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 
 | # | Problem | Difficulty | Solution | Platform |
 |---|---------|:----------:|----------|----------|
+| 35 | Search Insert Position | 🟢 Easy | [Java Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/35_Search_Insert_Position.java) | [LeetCode](https://leetcode.com/problems/search-insert-position/) |
 | 67 | Add Binary | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/67_Add_Binary.java) | [LeetCode](https://leetcode.com/problems/add-binary/) |
 | 75 | Sort Colors | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/75_Sort_Colors.java) | [LeetCode](https://leetcode.com/problems/sort-colors/) |
 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy | [Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/121_Best_Time_to_Buy_and_Sell_Stock.java) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
