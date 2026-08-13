@@ -78,6 +78,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | 3 | Toggle Case | 🔵 Basic | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/Toggle_Case.java) | [GFG](https://www.geeksforgeeks.org/problems/toggle-case/1) |
 | 4 | Convert Sentence to Camel Case | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/Convert_Sentence_to_Camel_Case.java) | [GFG](https://www.geeksforgeeks.org/problems/convert-sentence-to-camel-case/1) |
 | 5 | Length of Linked List | 🔵 Basic | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/Length_of_Linked_List.java) | [GFG](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) |
+| 6 | Search in an Almost Sorted Array | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/Search-in_an_almost_Sorted_Array.java) | [GFG](https://www.geeksforgeeks.org/problems/search-in-an-almost-sorted-array/1) |
 ---
 
 # 🛠️ Languages & Tools
