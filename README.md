@@ -82,42 +82,43 @@ This repository showcases my Data Structures & Algorithms (DSA) practice in Java
 | 6 | Search in an Almost Sorted Array | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/Search-in_an_almost_Sorted_Array.java) | [GFG](https://www.geeksforgeeks.org/problems/search-in-an-almost-sorted-array/1) |
 ---
 
-# 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-- ☕ Java
-- 📚 Data Structures & Algorithms (DSA)
-- 💻 Visual Studio Code
-- 🌿 Git
-- 🐙 GitHub
-- 🧩 LeetCode
-- 📘 GeeksforGeeks
+| Category | Technologies |
+|----------|--------------|
+| 💻 Language | **Java** |
+| 🧠 Core Focus | **Data Structures & Algorithms** |
+| 🧩 Practice Platforms | **LeetCode, GeeksforGeeks** |
+| 🛠️ IDE | **Visual Studio Code** |
+| 🌿 Version Control | **Git, GitHub** |
 
 ---
 
-# 🎯 Goals
+## 🎯 What I'm Working On
 
-- Solve DSA problems consistently.
-- Strengthen Data Structures & Algorithms concepts.
-- Improve logical thinking and coding skills.
-- Write clean, efficient, and optimized Java solutions.
-- Prepare for coding interviews and placements.
-- Track my learning journey through GitHub.
+- 🧠 Strengthening core **Data Structures & Algorithms** concepts.
+- 💡 Improving **problem-solving and algorithmic thinking**.
+- ⚡ Writing **clean, readable, and optimized Java solutions**.
+- 🔄 Maintaining consistent practice across **LeetCode and GeeksforGeeks**.
+- 🎯 Preparing for **technical interviews and placements**.
+- 📖 Documenting my DSA learning journey through this repository.
 
 ---
 
 ## 📌 Repository Highlights
 
-- ✅ Java-based DSA solutions
-- ✅ Optimized and readable code
-- ✅ Regularly updated repository
-- ✅ Placement-oriented problem collection
-- ✅ Covers Easy to Medium level interview questions
+- ☕ Java-based DSA solutions
+- 🧠 Focus on efficient approaches and optimized solutions
+- ✨ Clean and readable code
+- 🔄 Regularly updated with new solutions
+- 🎯 Interview and placement-focused practice
+- 📊 Problems ranging from **Easy to Medium** difficulty
 
 ---
 
 ## ⭐ Support
 
-If you find this repository helpful, consider giving it a **⭐ Star**.
+If you find this repository useful, consider giving it a **⭐ Star**.
 
 Your support motivates me to keep learning, solving, and sharing more DSA solutions.
 
