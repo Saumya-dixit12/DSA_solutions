@@ -6,7 +6,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge)
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-46%2B-success?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/Saumya-dixit12/DSA_solutions?style=for-the-badge)
 
 A collection of my **LeetCode** and **GeeksforGeeks (GFG)** solutions in **Java**.
 
