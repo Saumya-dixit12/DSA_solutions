@@ -62,6 +62,7 @@ This repository showcases my Data Structures & Algorithms (DSA) practice in Java
 | 494 | Target Sum | 🟡 Medium | [Java Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/494_Target_Sum.java) | [LeetCode](https://leetcode.com/problems/target-sum/) |
 | 593 | Valid Square | 🟡 Medium | [Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/593_Valid_Square.java) | [LeetCode](https://leetcode.com/problems/valid-square/submissions/2099355735/) | 
 | 643 | Maximum Average Subarray I | 🟢 Easy | [Java Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/643_Maximum_Average_Subarray_I.java) | [LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/) |
+| 697 | Degree of an Array | 🟢 Easy | [Java Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/697_Degree_of_an_Array.java) | [LeetCode](https://leetcode.com/problems/degree-of-an-array/) |
 | 704 | Binary Search | 🟢 Easy | [Java Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/704_Binary_Search.java) | [LeetCode](https://leetcode.com/problems/binary-search/submissions/2101072643/) |
 | 713 | Subarray Product Less Than K | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/713_Subarray_Product_Less_Than_K.java) | [LeetCode](https://leetcode.com/problems/subarray-product-less-than-k/) |
 | 733 | Flood Fill | 🟢 Easy | [Java Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/733_Flood_Fill.java) | [LeetCode](https://leetcode.com/problems/flood-fill/) |
