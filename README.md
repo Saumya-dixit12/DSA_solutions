@@ -68,6 +68,7 @@ This repository showcases my Data Structures & Algorithms (DSA) practice in Java
 | 733 | Flood Fill | 🟢 Easy | [Java Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/733_Flood_Fill.java) | [LeetCode](https://leetcode.com/problems/flood-fill/) |
 | 796 | Rotate String | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/796_Rotate_String.java) | [LeetCode](https://leetcode.com/problems/rotate-string/) |
 | 867 | Transpose Matrix | 🟢 Easy | [Java Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/867_Transpose_Matrix.java) | [LeetCode](https://leetcode.com/problems/transpose-matrix/) |
+| 905 | Sort Array By Parity | Easy | [Java Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/905_Sort_Array_By_Parity.java) | [LeetCode](https://leetcode.com/submissions/detail/2157744055/) |
 | 974 | Subarray Sums Divisible by K | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/974_Subarray_Sums_Divisible_By_K.java) | [LeetCode](https://leetcode.com/problems/subarray-sums-divisible-by-k/) |
 | 1004 | Max Consecutive Ones III | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/1004_Max_Consecutive_Ones_III.java) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) |
 | 1108 | Defanging an IP Address | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/1108_Defanging_an_IP_Address.java) | [LeetCode](https://leetcode.com/problems/defanging-an-ip-address/) |
