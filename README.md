@@ -14,8 +14,8 @@ This repository showcases my Data Structures & Algorithms (DSA) practice in Java
 
 ## 📈 Progress
 
-- ✅ Total Problems Solved: **52**
-- 🟠 LeetCode: **46**
+- ✅ Total Problems Solved: **53**
+- 🟠 LeetCode: **47**
 - 🟢 GeeksforGeeks: **6**
 
 
