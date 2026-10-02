@@ -74,6 +74,7 @@ This repository showcases my Data Structures & Algorithms (DSA) practice in Java
 | 977 | Squares of a Sorted Array | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/977_Squares_of_a_Sorted_Array.java) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) |
 | 1004 | Max Consecutive Ones III | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/1004_Max_Consecutive_Ones_III.java) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) |
 | 1108 | Defanging an IP Address | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/1108_Defanging_an_IP_Address.java) | [LeetCode](https://leetcode.com/problems/defanging-an-ip-address/) |
+| 1200 | Minimum Absolute Difference | 🟢 Easy | [Java Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/1200_Minimum_Absolute_Difference.java) | [LeetCode](https://leetcode.com/problems/minimum-absolute-difference/) |
 | 1528 | Shuffle String | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/1528_Shuffle_String.java) | [LeetCode](https://leetcode.com/problems/shuffle-string/) |
 | 1768 | Merge Strings Alternately | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/1768_Merge_Strings_Alternately.java) | [LeetCode](https://leetcode.com/problems/merge-strings-alternately/) |
 
